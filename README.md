@@ -1,3 +1,3 @@
 # Bastion Host Setup and VPN Configuration
 
-![def](https://imgur.com/a/8Us8aIq.jpeg)
+![AWS Architecture](https://imgur.com/gallery/bastion-host-setup-vpn-configuration-8Us8aIq)
